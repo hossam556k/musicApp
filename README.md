@@ -1,8 +1,8 @@
 # Project Lyrics
 
-Develop an elegant React.js Music Application. 
+Link : https://hossam536.netlify.app/?fbclid=IwAR01hrNJ56LeXr7TFjCsMYjCTqLO9VdESeu0SjslDHRf-rmNJ3FAjhKfiYA
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Develop an elegant React.js Music Application. 
 
 # Contributing
 
